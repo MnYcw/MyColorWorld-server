@@ -1,2 +1,2 @@
-# ColorWorld-server
-ColorWorld Server
+# MyColorWorld-server
+MyColorWorld Server
